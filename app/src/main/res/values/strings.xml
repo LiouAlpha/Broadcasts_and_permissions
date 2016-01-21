@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcasts_and_permissions</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_get_permission">Request android.permission.READ_CONTACTS</string>
+</resources>
